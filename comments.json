@@ -1,0 +1,19 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "missionId": 1,
+      "comment": "This was a great mission!"
+    },
+    {
+      "id": 2,
+      "missionId": 1,
+      "comment": "I can't wait to see what they do next!"
+    },
+    {
+      "id": 3,
+      "missionId": 2,
+      "comment": "This mission had some unexpected challenges, but the team handled them well."
+    }
+  ]
+}
